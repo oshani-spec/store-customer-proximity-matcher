@@ -37,6 +37,8 @@ Customer → Nearest Store → Distance
 - Logistics optimization
 - Delivery systems
 - Ride-sharing algorithms
+
+This project demonstrates spatial problem-solving using real world geolocation data and can be extended into GeoAI-based decision systems.
 - Emergency response
 
 ## Future Improvements
